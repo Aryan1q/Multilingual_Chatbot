@@ -1,0 +1,2444 @@
+[
+  {
+    "id": "TD001",
+    "name": "Banarasi Silk Saree - Gold",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Varanasi",
+    "price": 12000,
+    "currency": "INR",
+    "description": "Heavy pure Banarasi silk saree with intricate gold zari work and floral motifs",
+    "fabric": "Katan Silk",
+    "colors": [
+      "Gold",
+      "Red"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Wedding",
+      "Festival",
+      "Formal"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 15,
+    "brand": "Banarasi Weaves",
+    "weight": "800g",
+    "dimensions": "5.5m length with 0.8m blouse piece"
+  },
+  {
+    "id": "TD002",
+    "name": "Ao Dai - White Silk",
+    "category": "Vietnamese Ao Dai",
+    "origin": "Vietnam",
+    "region": "Ho Chi Minh City",
+    "price": 5500,
+    "currency": "INR",
+    "description": "Traditional Vietnamese long dress in white silk with matching trousers",
+    "fabric": "Silk",
+    "colors": [
+      "White"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Formal",
+      "Cultural",
+      "Wedding"
+    ],
+    "care": "Dry clean recommended",
+    "inStock": true,
+    "stockQuantity": 25,
+    "brand": "Saigon Threads",
+    "weight": "350g",
+    "dimensions": "Top length: 140cm"
+  },
+  {
+    "id": "TD003",
+    "name": "Anarkali Suit - Magenta",
+    "category": "Indian Salwar Kameez",
+    "origin": "India",
+    "region": "North India",
+    "price": 4500,
+    "currency": "INR",
+    "description": "Flowing Anarkali suit with embroidered bodice and flared silhouette, includes dupatta",
+    "fabric": "Georgette",
+    "colors": [
+      "Magenta Pink"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Party",
+      "Festival",
+      "Wedding Guest"
+    ],
+    "care": "Hand wash or dry clean",
+    "inStock": true,
+    "stockQuantity": 45,
+    "brand": "Ethnic Elegance",
+    "weight": "600g",
+    "dimensions": "Top: 46 inches length"
+  },
+  {
+    "id": "TD004",
+    "name": "Lehenga Choli Set - Bridal Red",
+    "category": "Indian Lehenga",
+    "origin": "India",
+    "region": "Rajasthan",
+    "price": 35000,
+    "currency": "INR",
+    "description": "Heavy bridal lehenga with intricate zardosi work, stone embellishments, and beaded dupatta",
+    "fabric": "Velvet and Net",
+    "colors": [
+      "Red",
+      "Gold"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Wedding",
+      "Bridal"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 5,
+    "brand": "Royal Threads",
+    "weight": "3.5kg",
+    "dimensions": "Lehenga: 42 inches length"
+  },
+  {
+    "id": "TD005",
+    "name": "Chanderi Silk Saree - Peach",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Madhya Pradesh",
+    "price": 6500,
+    "currency": "INR",
+    "description": "Lightweight Chanderi silk saree with traditional buttis and zari border",
+    "fabric": "Chanderi Silk",
+    "colors": [
+      "Peach",
+      "Gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Office",
+      "Casual",
+      "Festival"
+    ],
+    "care": "Dry clean recommended",
+    "inStock": true,
+    "stockQuantity": 22,
+    "brand": "Chanderi Craft",
+    "weight": "450g",
+    "dimensions": "5.5m length with 0.8m blouse piece"
+  },
+  {
+    "id": "TD006",
+    "name": "Kimono - Cherry Blossom Print",
+    "category": "Japanese Kimono",
+    "origin": "Japan",
+    "region": "Kyoto",
+    "price": 25000,
+    "currency": "INR",
+    "description": "Traditional silk kimono with hand-painted cherry blossom design and obi belt",
+    "fabric": "Pure Silk",
+    "colors": [
+      "Black",
+      "Pink",
+      "White"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "occasions": [
+      "Formal",
+      "Cultural",
+      "Special Occasions"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 10,
+    "brand": "Kyoto Artwear",
+    "weight": "900g",
+    "dimensions": "160cm length"
+  },
+  {
+    "id": "TD007",
+    "name": "Kaftan - Embroidered Velvet",
+    "category": "Moroccan Kaftan",
+    "origin": "Morocco",
+    "region": "Marrakesh",
+    "price": 12000,
+    "currency": "INR",
+    "description": "Luxurious velvet kaftan with intricate gold embroidery and trim",
+    "fabric": "Velvet",
+    "colors": [
+      "Royal Blue",
+      "Gold"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "occasions": [
+      "Wedding",
+      "Formal",
+      "Party"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 18,
+    "brand": "Marrakesh Luxury",
+    "weight": "1.5kg",
+    "dimensions": "Floor length"
+  },
+  {
+    "id": "TD008",
+    "name": "Hanbok - Two-Piece Set",
+    "category": "Korean Hanbok",
+    "origin": "South Korea",
+    "region": "Seoul",
+    "price": 8500,
+    "currency": "INR",
+    "description": "Traditional Korean hanbok set with Jeogori (jacket) and Chima (skirt)",
+    "fabric": "Silk Blend",
+    "colors": [
+      "Blue",
+      "Pink"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Wedding",
+      "Festival",
+      "Cultural Events"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 12,
+    "brand": "Seoul Fashion House",
+    "weight": "700g",
+    "dimensions": "Skirt length: 100cm"
+  },
+  {
+    "id": "TD009",
+    "name": "Dirndl - Bavarian Green",
+    "category": "German Dirndl",
+    "origin": "Germany",
+    "region": "Bavaria",
+    "price": 9500,
+    "currency": "INR",
+    "description": "Authentic Bavarian dirndl with bodice, blouse, full skirt and apron",
+    "fabric": "Cotton and Linen",
+    "colors": [
+      "Forest Green",
+      "Red",
+      "White"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Oktoberfest",
+      "Festival",
+      "Cultural"
+    ],
+    "care": "Machine wash cold",
+    "inStock": true,
+    "stockQuantity": 20,
+    "brand": "Alpine Traditions",
+    "weight": "800g",
+    "dimensions": "Midi length skirt"
+  },
+  {
+    "id": "TD010",
+    "name": "Cheongsam - Dragon Red",
+    "category": "Chinese Cheongsam",
+    "origin": "China",
+    "region": "Shanghai",
+    "price": 7500,
+    "currency": "INR",
+    "description": "Elegant silk cheongsam with mandarin collar, side slits, and dragon embroidery",
+    "fabric": "Silk Brocade",
+    "colors": [
+      "Red",
+      "Gold"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Wedding",
+      "Party",
+      "Formal"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 16,
+    "brand": "Shanghai Silk",
+    "weight": "500g",
+    "dimensions": "Knee length"
+  },
+  {
+    "id": "TD011",
+    "name": "Dashiki - Sunset Orange",
+    "category": "African Dashiki",
+    "origin": "Nigeria",
+    "region": "West Africa",
+    "price": 3200,
+    "currency": "INR",
+    "description": "Colorful dashiki with traditional African print and embroidered neckline",
+    "fabric": "Cotton",
+    "colors": [
+      "Orange",
+      "Yellow",
+      "Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Festival",
+      "Casual",
+      "Cultural"
+    ],
+    "care": "Machine wash warm",
+    "inStock": true,
+    "stockQuantity": 35,
+    "brand": "African Prints Co.",
+    "weight": "500g",
+    "dimensions": "Tunic length"
+  },
+  {
+    "id": "TD012",
+    "name": "Kira - Bhutanes Formal Wear",
+    "category": "Bhutanese Kira",
+    "origin": "Bhutan",
+    "region": "Thimphu",
+    "price": 15000,
+    "currency": "INR",
+    "description": "Traditional woven Bhutanese Kira (dress) with Tego (jacket) and Wonju (blouse)",
+    "fabric": "Wool and Cotton Blend",
+    "colors": [
+      "Blue",
+      "Red"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "occasions": [
+      "Formal",
+      "Official",
+      "Cultural"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 8,
+    "brand": "Himalayan Handlooms",
+    "weight": "1.2kg",
+    "dimensions": "Ankle length"
+  },
+  {
+    "id": "TD013",
+    "name": "Thobe - Saudi White",
+    "category": "Middle Eastern Thobe",
+    "origin": "Saudi Arabia",
+    "region": "Riyadh",
+    "price": 4500,
+    "currency": "INR",
+    "description": "Men's traditional white Thobe (long garment) with matching headwear (Ghutra/Igal)",
+    "fabric": "Cotton Blend",
+    "colors": [
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Daily Wear",
+      "Formal",
+      "Religious"
+    ],
+    "care": "Machine wash warm",
+    "inStock": true,
+    "stockQuantity": 50,
+    "brand": "Arabian Garments",
+    "weight": "600g",
+    "dimensions": "Full length"
+  },
+  {
+    "id": "TD014",
+    "name": "Patola Saree - Double Ikat",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Gujarat",
+    "price": 45000,
+    "currency": "INR",
+    "description": "Rare double ikat Patola silk saree with geometric patterns, heirloom quality",
+    "fabric": "Pure Patola Silk",
+    "colors": [
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Wedding",
+      "Special Occasions"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 3,
+    "brand": "Patan Patola Weavers",
+    "weight": "850g",
+    "dimensions": "6m length"
+  },
+  {
+    "id": "TD015",
+    "name": "Sharara Set - Mint Green",
+    "category": "Indian Sharara",
+    "origin": "India",
+    "region": "Lucknow",
+    "price": 8900,
+    "currency": "INR",
+    "description": "Three-piece sharara set with embroidered kurta, flared pants, and net dupatta",
+    "fabric": "Georgette and Net",
+    "colors": [
+      "Mint Green",
+      "Gold"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Wedding",
+      "Mehendi",
+      "Sangeet"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 28,
+    "brand": "Lucknowi Chikan",
+    "weight": "1.1kg",
+    "dimensions": "Kurta: 40 inches"
+  },
+  {
+    "id": "TD016",
+    "name": "Yukata - Summer Cotton",
+    "category": "Japanese Kimono",
+    "origin": "Japan",
+    "region": "Tokyo",
+    "price": 4500,
+    "currency": "INR",
+    "description": "Casual summer yukata in indigo blue with white geometric patterns",
+    "fabric": "Cotton",
+    "colors": [
+      "Indigo Blue",
+      "White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "occasions": [
+      "Festival",
+      "Casual",
+      "Summer Events"
+    ],
+    "care": "Machine wash gentle",
+    "inStock": true,
+    "stockQuantity": 30,
+    "brand": "Tokyo Textiles",
+    "weight": "600g",
+    "dimensions": "140cm length"
+  },
+  {
+    "id": "TD017",
+    "name": "Punjabi Patiala Suit - Yellow",
+    "category": "Indian Salwar Kameez",
+    "origin": "India",
+    "region": "Punjab",
+    "price": 3200,
+    "currency": "INR",
+    "description": "Traditional Punjabi suit with printed kurta, patiala salwar, and phulkari dupatta",
+    "fabric": "Cotton",
+    "colors": [
+      "Yellow",
+      "Multi"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Festival",
+      "Daily Wear",
+      "Traditional"
+    ],
+    "care": "Hand wash cold",
+    "inStock": true,
+    "stockQuantity": 40,
+    "brand": "Punjabi Wear",
+    "weight": "750g",
+    "dimensions": "Kurta: 42 inches"
+  },
+  {
+    "id": "TD018",
+    "name": "Huipil - Handwoven Guatemala",
+    "category": "Guatemalan Huipil",
+    "origin": "Guatemala",
+    "region": "Chimaltenango",
+    "price": 6000,
+    "currency": "INR",
+    "description": "Authentic handwoven Huipil (blouse) with traditional geometric embroidery",
+    "fabric": "Cotton",
+    "colors": [
+      "Multi-colored"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "occasions": [
+      "Casual",
+      "Cultural",
+      "Daily Wear"
+    ],
+    "care": "Hand wash cold",
+    "inStock": true,
+    "stockQuantity": 15,
+    "brand": "Maya Weavers",
+    "weight": "400g",
+    "dimensions": "Square cut"
+  },
+  {
+    "id": "TD019",
+    "name": "Gharara Suit - Velvet Black",
+    "category": "Pakistani Gharara",
+    "origin": "Pakistan",
+    "region": "Lahore",
+    "price": 11500,
+    "currency": "INR",
+    "description": "Elegant velvet gharara suit with short kurta and heavily embroidered flared pants",
+    "fabric": "Velvet",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Wedding",
+      "Nikah",
+      "Formal"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 11,
+    "brand": "Lahore Luxury",
+    "weight": "1.3kg",
+    "dimensions": "Kurta: 35 inches"
+  },
+  {
+    "id": "TD020",
+    "name": "Flamenco Dress - Red Polka Dot",
+    "category": "Spanish Flamenco",
+    "origin": "Spain",
+    "region": "Andalusia",
+    "price": 8500,
+    "currency": "INR",
+    "description": "Traditional flamenco dress with ruffled tiers and fitted bodice",
+    "fabric": "Cotton Blend",
+    "colors": [
+      "Red",
+      "White"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Dance",
+      "Festival",
+      "Cultural"
+    ],
+    "care": "Hand wash cold",
+    "inStock": true,
+    "stockQuantity": 14,
+    "brand": "Sevilla Style",
+    "weight": "1kg",
+    "dimensions": "Ankle length"
+  },
+  {
+    "id": "TD021",
+    "name": "Kente Cloth Dress",
+    "category": "Ghanaian Kente",
+    "origin": "Ghana",
+    "region": "Ashanti",
+    "price": 6500,
+    "currency": "INR",
+    "description": "Authentic Kente cloth dress with vibrant geometric patterns, handwoven",
+    "fabric": "Cotton",
+    "colors": [
+      "Multi-colored"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Festival",
+      "Wedding",
+      "Cultural"
+    ],
+    "care": "Hand wash cold",
+    "inStock": true,
+    "stockQuantity": 10,
+    "brand": "Ashanti Weavers",
+    "weight": "700g",
+    "dimensions": "Midi length"
+  },
+  {
+    "id": "TD022",
+    "name": "Abaya - Black with Gold Embroidery",
+    "category": "Middle Eastern Abaya",
+    "origin": "UAE",
+    "region": "Dubai",
+    "price": 5500,
+    "currency": "INR",
+    "description": "Elegant black abaya with intricate gold embroidery on sleeves and hem",
+    "fabric": "Crepe",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Daily Wear",
+      "Formal",
+      "Religious"
+    ],
+    "care": "Hand wash or dry clean",
+    "inStock": true,
+    "stockQuantity": 40,
+    "brand": "Dubai Modest",
+    "weight": "550g",
+    "dimensions": "Floor length"
+  },
+  {
+    "id": "TD023",
+    "name": "Kanjivaram Saree - Temple Border",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Tamil Nadu",
+    "price": 18000,
+    "currency": "INR",
+    "description": "Pure Kanjivaram silk saree with traditional temple border and check patterns",
+    "fabric": "Pure Silk",
+    "colors": [
+      "Dark Blue",
+      "Pink"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Wedding",
+      "Formal",
+      "Traditional"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 9,
+    "brand": "Kanchi Loom",
+    "weight": "1.2kg",
+    "dimensions": "6m length"
+  },
+  {
+    "id": "TD024",
+    "name": "Kaftan - Boho Chic Print",
+    "category": "Moroccan Kaftan",
+    "origin": "Morocco",
+    "region": "Tangier",
+    "price": 4200,
+    "currency": "INR",
+    "description": "Lightweight cotton kaftan with colorful bohemian prints and tassel ties",
+    "fabric": "Cotton",
+    "colors": [
+      "Turquoise",
+      "Orange"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "occasions": [
+      "Casual",
+      "Beach Wear",
+      "Summer"
+    ],
+    "care": "Machine wash cold",
+    "inStock": true,
+    "stockQuantity": 30,
+    "brand": "Boho Threads",
+    "weight": "450g",
+    "dimensions": "Midi length"
+  },
+  {
+    "id": "TD026",
+    "name": "Chikankari Kurta - Lucknawi",
+    "category": "Indian Kurti",
+    "origin": "India",
+    "region": "Lucknow",
+    "price": 2800,
+    "currency": "INR",
+    "description": "Hand-embroidered lucknowi chikankari cotton kurta, elegant and traditional",
+    "fabric": "Cotton",
+    "colors": [
+      "White",
+      "Baby Pink"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Casual",
+      "Festival",
+      "Summer Wear"
+    ],
+    "care": "Hand wash cold",
+    "inStock": true,
+    "stockQuantity": 38,
+    "brand": "Lucknow Embroidery House",
+    "weight": "500g",
+    "dimensions": "Kurta: 44 inches"
+  },
+  {
+    "id": "TD027",
+    "name": "Nehru Jacket Kurta Set - Maroon",
+    "category": "Indian Ethnic Men",
+    "origin": "India",
+    "region": "Delhi",
+    "price": 6500,
+    "currency": "INR",
+    "description": "Men's ethnic kurta set with embroidered Nehru jacket and churidar",
+    "fabric": "Silk Blend",
+    "colors": [
+      "Maroon",
+      "Gold"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "occasions": [
+      "Wedding",
+      "Festival",
+      "Formal"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 25,
+    "brand": "Regal Menswear",
+    "weight": "800g",
+    "dimensions": "Kurta: 40 inches"
+  },
+  {
+    "id": "TD028",
+    "name": "Tissue Saree - Silver Grey",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Bengal",
+    "price": 8500,
+    "currency": "INR",
+    "description": "Shimmering tissue saree with metallic finish and contemporary border",
+    "fabric": "Tissue",
+    "colors": [
+      "Silver Grey"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Party",
+      "Reception",
+      "Formal"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 19,
+    "brand": "Modern Drape",
+    "weight": "500g",
+    "dimensions": "5.5m length with 0.8m blouse piece"
+  },
+  {
+    "id": "TD029",
+    "name": "Kurti Set - Printed Cotton",
+    "category": "Indian Kurti",
+    "origin": "India",
+    "region": "Jaipur",
+    "price": 1800,
+    "currency": "INR",
+    "description": "Block-printed cotton kurti with palazzo pants and dupatta",
+    "fabric": "Cotton",
+    "colors": [
+      "Coral Pink"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Casual",
+      "Daily Wear",
+      "College"
+    ],
+    "care": "Machine wash cold",
+    "inStock": true,
+    "stockQuantity": 65,
+    "brand": "Jaipur Prints",
+    "weight": "400g",
+    "dimensions": "Kurti: 42 inches"
+  },
+  {
+    "id": "TD030",
+    "name": "Indowestern Gown - Wine",
+    "category": "Indowestern",
+    "origin": "India",
+    "region": "Mumbai",
+    "price": 7500,
+    "currency": "INR",
+    "description": "Floor-length gown with drape and embellishment, perfect for modern events",
+    "fabric": "Georgette",
+    "colors": [
+      "Wine Red"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Reception",
+      "Cocktail",
+      "Party"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 24,
+    "brand": "Fusion Wear",
+    "weight": "1kg",
+    "dimensions": "58 inches length"
+  },
+  {
+    "id": "TD031",
+    "name": "Ikkat Saree - Pochampally",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Telangana",
+    "price": 5200,
+    "currency": "INR",
+    "description": "Handloom Pochampally ikkat silk saree with geometric patterns",
+    "fabric": "Silk",
+    "colors": [
+      "Navy Blue",
+      "White"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Office",
+      "Festival",
+      "Formal"
+    ],
+    "care": "Hand wash separately",
+    "inStock": true,
+    "stockQuantity": 21,
+    "brand": "Pochampally Weavers",
+    "weight": "500g",
+    "dimensions": "5.5m length with 0.8m blouse piece"
+  },
+  {
+    "id": "TD032",
+    "name": "Jamdani Saree - White Gold",
+    "category": "Indian Saree",
+    "origin": "Bangladesh",
+    "region": "Dhaka",
+    "price": 15000,
+    "currency": "INR",
+    "description": "Handwoven Jamdani saree with delicate floral motifs",
+    "fabric": "Cotton",
+    "colors": [
+      "White",
+      "Gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Wedding",
+      "Festival",
+      "Formal"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 14,
+    "brand": "Dhaka Muslin",
+    "weight": "450g",
+    "dimensions": "5.5m length"
+  },
+  {
+    "id": "TD033",
+    "name": "Jodhpuri Suit - Royal Blue",
+    "category": "Indian Ethnic Men",
+    "origin": "India",
+    "region": "Rajasthan",
+    "price": 9500,
+    "currency": "INR",
+    "description": "Men's formal Jodhpuri suit (Bandhgala) with trousers, modern fit",
+    "fabric": "Silk Blend",
+    "colors": [
+      "Royal Blue",
+      "Black"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Wedding",
+      "Reception",
+      "Formal"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 20,
+    "brand": "Jodhpur Style",
+    "weight": "1.1kg",
+    "dimensions": "Jacket length: 28 inches"
+  },
+  {
+    "id": "TD034",
+    "name": "Sarong - Indonesian Batik",
+    "category": "Indonesian Sarong",
+    "origin": "Indonesia",
+    "region": "Java",
+    "price": 1800,
+    "currency": "INR",
+    "description": "Hand-stamped batik sarong with traditional Javanese patterns",
+    "fabric": "Cotton",
+    "colors": [
+      "Brown",
+      "Blue"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "occasions": [
+      "Casual",
+      "Beach",
+      "Cultural"
+    ],
+    "care": "Hand wash cold",
+    "inStock": true,
+    "stockQuantity": 30,
+    "brand": "Java Batik",
+    "weight": "300g",
+    "dimensions": "2m x 1m"
+  },
+  {
+    "id": "TD035",
+    "name": "Sari - Net Designer",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Delhi",
+    "price": 6800,
+    "currency": "INR",
+    "description": "Designer net saree with sequin and stone work, modern drape",
+    "fabric": "Net",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Party",
+      "Reception",
+      "Cocktail"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 28,
+    "brand": "Designer Studio",
+    "weight": "650g",
+    "dimensions": "5.5m length with 0.8m blouse piece"
+  },
+  {
+    "id": "TD036",
+    "name": "Angrakha Style Kurta Set",
+    "category": "Indian Ethnic Men",
+    "origin": "India",
+    "region": "Rajasthan",
+    "price": 4500,
+    "currency": "INR",
+    "description": "Men's traditional angrakha style kurta with side tie, churidar included",
+    "fabric": "Cotton Silk",
+    "colors": [
+      "White",
+      "Mustard"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Festival",
+      "Wedding",
+      "Traditional"
+    ],
+    "care": "Dry clean recommended",
+    "inStock": true,
+    "stockQuantity": 22,
+    "brand": "Rajput Groom",
+    "weight": "750g",
+    "dimensions": "Kurta: 42 inches"
+  },
+  {
+    "id": "TD037",
+    "name": "Cotton Saree - Mangalgiri",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Andhra Pradesh",
+    "price": 2800,
+    "currency": "INR",
+    "description": "Handloom Mangalgiri cotton saree with temple border, lightweight",
+    "fabric": "Cotton",
+    "colors": [
+      "Coral",
+      "Gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Daily Wear",
+      "Office",
+      "Casual"
+    ],
+    "care": "Machine wash cold",
+    "inStock": true,
+    "stockQuantity": 55,
+    "brand": "Andhra Looms",
+    "weight": "400g",
+    "dimensions": "5.5m length with 0.8m blouse piece"
+  },
+  {
+    "id": "TD038",
+    "name": "Dhoti Kurta Set - Cream",
+    "category": "Indian Ethnic Men",
+    "origin": "India",
+    "region": "South India",
+    "price": 3200,
+    "currency": "INR",
+    "description": "Men's traditional dhoti and kurta set with gold border",
+    "fabric": "Cotton Silk",
+    "colors": [
+      "Cream",
+      "Gold"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Puja",
+      "Wedding",
+      "Traditional"
+    ],
+    "care": "Dry clean recommended",
+    "inStock": true,
+    "stockQuantity": 27,
+    "brand": "South Heritage",
+    "weight": "700g",
+    "dimensions": "Kurta: 38 inches"
+  },
+  {
+    "id": "TD039",
+    "name": "Chanderi Kurta Set - Lavender",
+    "category": "Indian Salwar Kameez",
+    "origin": "India",
+    "region": "Madhya Pradesh",
+    "price": 4200,
+    "currency": "INR",
+    "description": "Chanderi silk kurta with gota patti work, matching pants and dupatta",
+    "fabric": "Chanderi Silk",
+    "colors": [
+      "Lavender"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Festival",
+      "Party",
+      "Wedding Guest"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 31,
+    "brand": "Chanderi Heritage",
+    "weight": "550g",
+    "dimensions": "Kurta: 44 inches"
+  },
+  {
+    "id": "TD040",
+    "name": "Bomkai Saree - Traditional",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Odisha",
+    "price": 7500,
+    "currency": "INR",
+    "description": "Handwoven Bomkai saree with intricate tribal motifs and contrasting border",
+    "fabric": "Cotton Silk",
+    "colors": [
+      "Burgundy",
+      "Green"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Festival",
+      "Wedding",
+      "Traditional"
+    ],
+    "care": "Hand wash with care",
+    "inStock": true,
+    "stockQuantity": 13,
+    "brand": "Odisha Handloom",
+    "weight": "650g",
+    "dimensions": "6m length"
+  },
+  {
+    "id": "TD041",
+    "name": "Palazzo Suit - Mustard",
+    "category": "Indian Palazzo Suit",
+    "origin": "India",
+    "region": "Delhi",
+    "price": 3500,
+    "currency": "INR",
+    "description": "Contemporary palazzo suit with short kurta and embroidered dupatta",
+    "fabric": "Rayon",
+    "colors": [
+      "Mustard Yellow"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Casual",
+      "Office",
+      "Party"
+    ],
+    "care": "Machine wash cold",
+    "inStock": true,
+    "stockQuantity": 48,
+    "brand": "Trendy Ethnic",
+    "weight": "600g",
+    "dimensions": "Kurta: 38 inches"
+  },
+  {
+    "id": "TD042",
+    "name": "Velvet Lehenga - Royal Purple",
+    "category": "Indian Lehenga",
+    "origin": "India",
+    "region": "Rajasthan",
+    "price": 18500,
+    "currency": "INR",
+    "description": "Velvet lehenga with heavy zardozi work and silk choli",
+    "fabric": "Velvet",
+    "colors": [
+      "Purple",
+      "Gold"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Wedding",
+      "Sangeet",
+      "Reception"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 9,
+    "brand": "Rajwada Collection",
+    "weight": "2.8kg",
+    "dimensions": "Lehenga: 44 inches"
+  },
+  {
+    "id": "TD043",
+    "name": "Silk Saree - Tussar Beige",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Jharkhand",
+    "price": 5800,
+    "currency": "INR",
+    "description": "Natural tussar silk saree with tribal prints and temple border",
+    "fabric": "Tussar Silk",
+    "colors": [
+      "Beige",
+      "Brown"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Office",
+      "Festival",
+      "Formal"
+    ],
+    "care": "Dry clean recommended",
+    "inStock": true,
+    "stockQuantity": 24,
+    "brand": "Tribal Silks",
+    "weight": "550g",
+    "dimensions": "5.5m length with 0.8m blouse piece"
+  },
+  {
+    "id": "TD044",
+    "name": "Afghani Suit - Multi-color",
+    "category": "Afghan Dress",
+    "origin": "Afghanistan",
+    "region": "Kabul",
+    "price": 6500,
+    "currency": "INR",
+    "description": "Traditional Afghani dress with mirror work and intricate embroidery",
+    "fabric": "Cotton",
+    "colors": [
+      "Multi-colored"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Festival",
+      "Wedding",
+      "Cultural"
+    ],
+    "care": "Hand wash cold",
+    "inStock": true,
+    "stockQuantity": 14,
+    "brand": "Kabul Crafts",
+    "weight": "800g",
+    "dimensions": "Floor length"
+  },
+  {
+    "id": "TD045",
+    "name": "Ikkat Lehenga - Peacock Blue",
+    "category": "Indian Lehenga",
+    "origin": "India",
+    "region": "Telangana",
+    "price": 14500,
+    "currency": "INR",
+    "description": "Pochampally ikkat lehenga with traditional geometric patterns",
+    "fabric": "Silk",
+    "colors": [
+      "Peacock Blue",
+      "Pink"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Wedding",
+      "Sangeet",
+      "Festival"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 11,
+    "brand": "Ikkat Creations",
+    "weight": "2kg",
+    "dimensions": "Lehenga: 42 inches"
+  },
+  {
+    "id": "TD046",
+    "name": "Mundum Neriyathum - Kerala Kasavu",
+    "category": "South Indian Traditional",
+    "origin": "India",
+    "region": "Kerala",
+    "price": 4500,
+    "currency": "INR",
+    "description": "Traditional Kerala saree in cream with gold kasavu border",
+    "fabric": "Cotton",
+    "colors": [
+      "Cream",
+      "Gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Onam",
+      "Wedding",
+      "Traditional"
+    ],
+    "care": "Hand wash separately",
+    "inStock": true,
+    "stockQuantity": 26,
+    "brand": "Kerala Weavers",
+    "weight": "450g",
+    "dimensions": "5.5m length"
+  },
+  {
+    "id": "TD047",
+    "name": "Maxi Kurta - Floral Print",
+    "category": "Indian Kurti",
+    "origin": "India",
+    "region": "Mumbai",
+    "price": 2400,
+    "currency": "INR",
+    "description": "Long maxi kurta with floral print, side slits, ideal for casual wear",
+    "fabric": "Rayon",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Casual",
+      "Daily Wear",
+      "Brunch"
+    ],
+    "care": "Machine wash cold",
+    "inStock": true,
+    "stockQuantity": 72,
+    "brand": "Casual Chic",
+    "weight": "400g",
+    "dimensions": "52 inches length"
+  },
+  {
+    "id": "TD048",
+    "name": "Banarasi Brocade Lehenga",
+    "category": "Indian Lehenga",
+    "origin": "India",
+    "region": "Varanasi",
+    "price": 28000,
+    "currency": "INR",
+    "description": "Heavy Banarasi brocade lehenga with Mughal patterns and zari work",
+    "fabric": "Brocade Silk",
+    "colors": [
+      "Bottle Green",
+      "Gold"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Bridal",
+      "Wedding",
+      "Reception"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 6,
+    "brand": "Banarasi Legacy",
+    "weight": "3.2kg",
+    "dimensions": "Lehenga: 43 inches"
+  },
+  {
+    "id": "TD049",
+    "name": "Pakistani Kurta - Lawn Cotton",
+    "category": "Pakistani Kurta",
+    "origin": "Pakistan",
+    "region": "Karachi",
+    "price": 3800,
+    "currency": "INR",
+    "description": "Lightweight lawn cotton kurta with digital print and embroidered neckline",
+    "fabric": "Lawn Cotton",
+    "colors": [
+      "Pastel Multi"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Casual",
+      "Summer Wear",
+      "Daily"
+    ],
+    "care": "Machine wash cold",
+    "inStock": true,
+    "stockQuantity": 42,
+    "brand": "Karachi Fabrics",
+    "weight": "350g",
+    "dimensions": "42 inches length"
+  },
+  {
+    "id": "TD050",
+    "name": "Sambalpuri Saree - Cotton",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Odisha",
+    "price": 4200,
+    "currency": "INR",
+    "description": "Handwoven Sambalpuri cotton saree with ikat patterns",
+    "fabric": "Cotton",
+    "colors": [
+      "Rust",
+      "Black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Casual",
+      "Office",
+      "Festival"
+    ],
+    "care": "Hand wash cold",
+    "inStock": true,
+    "stockQuantity": 29,
+    "brand": "Sambalpur Handloom",
+    "weight": "500g",
+    "dimensions": "5.5m length with 0.8m blouse piece"
+  },
+  {
+    "id": "TD051",
+    "name": "Organza Saree - Pastel Pink",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Bangalore",
+    "price": 5500,
+    "currency": "INR",
+    "description": "Light organza saree with floral embroidery and pearl work",
+    "fabric": "Organza",
+    "colors": [
+      "Pastel Pink"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Party",
+      "Reception",
+      "Daytime Wedding"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 23,
+    "brand": "Modern Sarees",
+    "weight": "450g",
+    "dimensions": "5.5m length with 0.8m blouse piece"
+  },
+  {
+    "id": "TD052",
+    "name": "Sherwani - Ivory Gold",
+    "category": "Indian Ethnic Men",
+    "origin": "India",
+    "region": "Lucknow",
+    "price": 15000,
+    "currency": "INR",
+    "description": "Groom's sherwani with intricate embroidery, includes kurta-churidar",
+    "fabric": "Silk Blend",
+    "colors": [
+      "Ivory",
+      "Gold"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Wedding",
+      "Groom",
+      "Reception"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 12,
+    "brand": "Royal Groom",
+    "weight": "1.5kg",
+    "dimensions": "Long length sherwani"
+  },
+  {
+    "id": "TD053",
+    "name": "Assam Silk Saree - Muga",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Assam",
+    "price": 12000,
+    "currency": "INR",
+    "description": "Pure Muga silk saree with natural golden sheen and traditional motifs",
+    "fabric": "Muga Silk",
+    "colors": [
+      "Golden Yellow"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Wedding",
+      "Festival",
+      "Special Occasions"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 10,
+    "brand": "Assam Silks",
+    "weight": "700g",
+    "dimensions": "6m length"
+  },
+  {
+    "id": "TD054",
+    "name": "Peplum Kurti Set - Black",
+    "category": "Indowestern",
+    "origin": "India",
+    "region": "Mumbai",
+    "price": 3200,
+    "currency": "INR",
+    "description": "Contemporary peplum style kurti with cigarette pants",
+    "fabric": "Crepe",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Party",
+      "Cocktail",
+      "Office"
+    ],
+    "care": "Dry clean recommended",
+    "inStock": true,
+    "stockQuantity": 37,
+    "brand": "Urban Ethnic",
+    "weight": "500g",
+    "dimensions": "Kurti: 32 inches"
+  },
+  {
+    "id": "TD055",
+    "name": "Banarasi Tissue Saree",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Varanasi",
+    "price": 16500,
+    "currency": "INR",
+    "description": "Premium Banarasi tissue saree with silver zari work",
+    "fabric": "Tissue Silk",
+    "colors": [
+      "Pink",
+      "Silver"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Wedding",
+      "Reception",
+      "Formal"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 8,
+    "brand": "Banaras Luxury",
+    "weight": "750g",
+    "dimensions": "5.5m length with 0.8m blouse piece"
+  },
+  {
+    "id": "TD056",
+    "name": "Cotton Lehenga - Navratri Special",
+    "category": "Indian Lehenga",
+    "origin": "India",
+    "region": "Gujarat",
+    "price": 4500,
+    "currency": "INR",
+    "description": "Comfortable cotton lehenga choli with mirror work, perfect for garba",
+    "fabric": "Cotton",
+    "colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Navratri",
+      "Garba",
+      "Festival"
+    ],
+    "care": "Machine wash cold",
+    "inStock": true,
+    "stockQuantity": 34,
+    "brand": "Gujarat Traditions",
+    "weight": "900g",
+    "dimensions": "Lehenga: 40 inches"
+  },
+  {
+    "id": "TD057",
+    "name": "Kalamkari Saree - Hand Painted",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Andhra Pradesh",
+    "price": 6500,
+    "currency": "INR",
+    "description": "Hand-painted Kalamkari cotton saree with mythological scenes",
+    "fabric": "Cotton",
+    "colors": [
+      "Cream",
+      "Red",
+      "Black"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Casual",
+      "Cultural",
+      "Festival"
+    ],
+    "care": "Hand wash cold",
+    "inStock": true,
+    "stockQuantity": 16,
+    "brand": "Kalamkari Arts",
+    "weight": "500g",
+    "dimensions": "5.5m length with 0.8m blouse piece"
+  },
+  {
+    "id": "TD058",
+    "name": "Ajrakh Print Kurta Set",
+    "category": "Indian Salwar Kameez",
+    "origin": "India",
+    "region": "Gujarat",
+    "price": 3800,
+    "currency": "INR",
+    "description": "Authentic Ajrakh block print kurta with matching bottom and dupatta",
+    "fabric": "Cotton",
+    "colors": [
+      "Indigo",
+      "Red"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Casual",
+      "Ethnic Day",
+      "Festival"
+    ],
+    "care": "Hand wash separately",
+    "inStock": true,
+    "stockQuantity": 28,
+    "brand": "Kutch Crafts",
+    "weight": "550g",
+    "dimensions": "Kurta: 44 inches"
+  },
+  {
+    "id": "TD059",
+    "name": "Net Lehenga - Mint Green",
+    "category": "Indian Lehenga",
+    "origin": "India",
+    "region": "Delhi",
+    "price": 12500,
+    "currency": "INR",
+    "description": "Designer net lehenga with sequin work and embellished choli",
+    "fabric": "Net",
+    "colors": [
+      "Mint Green",
+      "Silver"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Sangeet",
+      "Mehendi",
+      "Reception"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 15,
+    "brand": "Designer Couture",
+    "weight": "2kg",
+    "dimensions": "Lehenga: 42 inches"
+  },
+  {
+    "id": "TD060",
+    "name": "Phulkari Dupatta with Suit",
+    "category": "Indian Salwar Kameez",
+    "origin": "India",
+    "region": "Punjab",
+    "price": 4200,
+    "currency": "INR",
+    "description": "Plain suit with heavily embroidered traditional phulkari dupatta",
+    "fabric": "Cotton",
+    "colors": [
+      "Brown",
+      "Multi"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Festival",
+      "Traditional",
+      "Casual"
+    ],
+    "care": "Hand wash cold",
+    "inStock": true,
+    "stockQuantity": 35,
+    "brand": "Punjab Heritage",
+    "weight": "700g",
+    "dimensions": "Kurta: 40 inches"
+  },
+  {
+    "id": "TD063",
+    "name": "Paithani Saree - Peacock Design",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Maharashtra",
+    "price": 22000,
+    "currency": "INR",
+    "description": "Authentic Paithani silk saree with peacock motifs and zari pallu",
+    "fabric": "Paithani Silk",
+    "colors": [
+      "Magenta",
+      "Green",
+      "Gold"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Wedding",
+      "Festival",
+      "Traditional"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 7,
+    "brand": "Yeola Paithani",
+    "weight": "900g",
+    "dimensions": "6m length"
+  },
+  {
+    "id": "TD064",
+    "name": "Cape Style Kurti - Teal",
+    "category": "Indowestern",
+    "origin": "India",
+    "region": "Delhi",
+    "price": 3800,
+    "currency": "INR",
+    "description": "Modern cape style kurti with pants, contemporary design",
+    "fabric": "Georgette",
+    "colors": [
+      "Teal"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Party",
+      "Cocktail",
+      "Modern Ethnic"
+    ],
+    "care": "Dry clean recommended",
+    "inStock": true,
+    "stockQuantity": 32,
+    "brand": "Contemporary Ethnic",
+    "weight": "600g",
+    "dimensions": "Kurti: 36 inches"
+  },
+  {
+    "id": "TD065",
+    "name": "Banarasi Lehenga - Fuchsia",
+    "category": "Indian Lehenga",
+    "origin": "India",
+    "region": "Varanasi",
+    "price": 24000,
+    "currency": "INR",
+    "description": "Handwoven Banarasi silk lehenga with traditional motifs",
+    "fabric": "Banarasi Silk",
+    "colors": [
+      "Fuchsia",
+      "Gold"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Wedding",
+      "Bridal",
+      "Reception"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 6,
+    "brand": "Banarasi Heritage",
+    "weight": "2.5kg",
+    "dimensions": "Lehenga: 44 inches"
+  },
+  {
+    "id": "TD066",
+    "name": "Linen Saree - Handloom",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Bengal",
+    "price": 3500,
+    "currency": "INR",
+    "description": "Comfortable and elegant handloom linen saree with simple stripe design",
+    "fabric": "Linen",
+    "colors": [
+      "Grey",
+      "Yellow"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Daily Wear",
+      "Office",
+      "Summer"
+    ],
+    "care": "Hand wash cold",
+    "inStock": true,
+    "stockQuantity": 45,
+    "brand": "Bengal Looms",
+    "weight": "400g",
+    "dimensions": "5.5m length with 0.8m blouse piece"
+  },
+  {
+    "id": "TD068",
+    "name": "Embroidered Sherwani - Charcoal",
+    "category": "Indian Ethnic Men",
+    "origin": "India",
+    "region": "Delhi",
+    "price": 14000,
+    "currency": "INR",
+    "description": "Designer sherwani with thread embroidery and stone work",
+    "fabric": "Silk Blend",
+    "colors": [
+      "Charcoal Grey",
+      "Silver"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Wedding",
+      "Reception",
+      "Groom"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 14,
+    "brand": "Groom's Collection",
+    "weight": "1.4kg",
+    "dimensions": "Long sherwani"
+  },
+  {
+    "id": "TD069",
+    "name": "Tant Saree - Bengal Cotton",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "West Bengal",
+    "price": 2400,
+    "currency": "INR",
+    "description": "Traditional Bengali tant saree with red border",
+    "fabric": "Cotton",
+    "colors": [
+      "White",
+      "Red"
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "occasions": [
+      "Daily Wear",
+      "Puja",
+      "Traditional"
+    ],
+    "care": "Machine wash cold",
+    "inStock": true,
+    "stockQuantity": 52,
+    "brand": "Bengal Tant",
+    "weight": "400g",
+    "dimensions": "5.5m length with 0.8m blouse piece"
+  },
+  {
+    "id": "TD070",
+    "name": "Zari Work Kurta Set - Burgundy",
+    "category": "Indian Salwar Kameez",
+    "origin": "India",
+    "region": "Lucknow",
+    "price": 6800,
+    "currency": "INR",
+    "description": "Velvet kurta with zari embroidery, silk bottom and net dupatta",
+    "fabric": "Velvet",
+    "colors": [
+      "Burgundy",
+      "Gold"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "occasions": [
+      "Wedding",
+      "Winter Festive",
+      "Reception"
+    ],
+    "care": "Dry clean only",
+    "inStock": true,
+    "stockQuantity": 21,
+    "brand": "Velvet Touch",
+    "weight": "1kg",
+    "dimensions": "Kurta: 46 inches"
+  },
+  {
+    "id": "TD071",
+    "name": "Bandhej Lehenga - Multicolor",
+    "category": "Indian Lehenga",
+    "origin": "India",
+    "region": "Gujarat",
+    "price": 8500,
+    "currency": "INR",
+    "description": "Traditional bandhani lehenga with mirror work and tie-dye patterns",
+    "fabric": "Cotton Silk",
+    "colors": [
+      "Multi-colored"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "occasions": [
+      "Navratri",
+      "Garba",
+      "Festival"
+    ],
+    "care": "Dry clean recommended",
+    "inStock": true,
+    "stockQuantity": 19,
+    "brand": "Bandhani Crafts",
+    "weight": "1.5kg",
+    "dimensions": "Lehenga: 40 inches"
+  },
+  {
+    "id": "TD073",
+    "name": "Maheshwari Saree - Silk Cotton",
+    "category": "Indian Saree",
+    "origin": "India",
+    "region": "Madhya Pradesh",
+    "price": 3200,
+    "currency": "INR",
+    "description": "Lightweight silk-cotton blend Maheshwari saree with a reversible border",
+    "fabric": "Silk Cotton",
+    "colors": [
+      "Blue",
+      "Silver"
+    ],
+    "sizes": [
+        "Free Size"
+      ],
+      "occasions": [
+        "Office",
+        "Casual",
+        "Travel"
+      ],
+      "care": "Hand wash cold",
+      "inStock": true,
+      "stockQuantity": 28,
+      "brand": "Maheshwar Weavers",
+      "weight": "450g",
+      "dimensions": "5.5m length with 0.8m blouse piece"
+    },
+    {
+      "id": "TD074",
+      "name": "Bandhani Saree - Rajasthani Red",
+      "category": "Indian Saree",
+      "origin": "India",
+      "region": "Rajasthan",
+      "price": 4500,
+      "currency": "INR",
+      "description": "Traditional Rajasthani bandhani saree with intricate tie-dye work",
+      "fabric": "Georgette",
+      "colors": [
+        "Red",
+        "Yellow"
+      ],
+      "sizes": [
+        "Free Size"
+      ],
+      "occasions": [
+        "Wedding",
+        "Festival",
+        "Karva Chauth"
+      ],
+      "care": "Dry clean recommended",
+      "inStock": true,
+      "stockQuantity": 31,
+      "brand": "Rajasthan Bandhej",
+      "weight": "550g",
+      "dimensions": "5.5m length with 0.8m blouse piece"
+    },
+    {
+      "id": "TD075",
+      "name": "Straight Cut Kurta Set - Peach",
+      "category": "Indian Salwar Kameez",
+      "origin": "India",
+      "region": "Delhi",
+      "price": 2800,
+      "currency": "INR",
+      "description": "Simple straight cut kurta with matching churidar and dupatta",
+      "fabric": "Cotton",
+      "colors": [
+        "Peach"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "occasions": [
+        "Daily Wear",
+        "Office",
+        "Casual"
+      ],
+      "care": "Machine wash cold",
+      "inStock": true,
+      "stockQuantity": 58,
+      "brand": "Daily Ethnic",
+      "weight": "500g",
+      "dimensions": "Kurta: 44 inches"
+    },
+    {
+      "id": "TD076",
+      "name": "Silk Dhoti Kurta - Men's Festive",
+      "category": "Indian Ethnic Men",
+      "origin": "India",
+      "region": "Tamil Nadu",
+      "price": 4500,
+      "currency": "INR",
+      "description": "Men's silk blend kurta with contrast border dhoti, festive wear",
+      "fabric": "Silk Blend",
+      "colors": [
+        "Cream",
+        "Maroon"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "occasions": [
+        "Puja",
+        "Festival",
+        "Traditional"
+      ],
+      "care": "Dry clean only",
+      "inStock": true,
+      "stockQuantity": 20,
+      "brand": "Chennai Trends",
+      "weight": "700g",
+      "dimensions": "Kurta: 38 inches"
+    },
+    {
+      "id": "TD078",
+      "name": "Designer Gown - Indo-Western",
+      "category": "Indowestern",
+      "origin": "India",
+      "region": "Mumbai",
+      "price": 14000,
+      "currency": "INR",
+      "description": "Modern gown with attached dupatta and light embellishments, floor length",
+      "fabric": "Net and Georgette",
+      "colors": [
+        "Navy Blue",
+        "Silver"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "occasions": [
+        "Reception",
+        "Modern Wedding"
+      ],
+      "care": "Dry clean only",
+      "inStock": true,
+      "stockQuantity": 16,
+      "brand": "Designer Label",
+      "weight": "2.2kg",
+      "dimensions": "Lehenga: 42 inches"
+    },
+    {
+      "id": "TD079",
+      "name": "Kota Doria Saree - Summer Special",
+      "category": "Indian Saree",
+      "origin": "India",
+      "region": "Rajasthan",
+      "price": 3500,
+      "currency": "INR",
+      "description": "Lightweight Kota Doria saree perfect for summer, breathable fabric",
+      "fabric": "Kota Cotton",
+      "colors": [
+        "Mint Green"
+      ],
+      "sizes": [
+        "Free Size"
+      ],
+      "occasions": [
+        "Summer Wear",
+        "Office",
+        "Casual"
+      ],
+      "care": "Hand wash cold",
+      "inStock": true,
+      "stockQuantity": 39,
+      "brand": "Kota Handloom",
+      "weight": "350g",
+      "dimensions": "5.5m length with 0.8m blouse piece"
+    },
+    {
+      "id": "TD080",
+      "name": "Mirror Work Kurti - Kutch Style",
+      "category": "Indian Kurti",
+      "origin": "India",
+      "region": "Gujarat",
+      "price": 2400,
+      "currency": "INR",
+      "description": "Cotton kurti with traditional Kutch mirror work embroidery",
+      "fabric": "Cotton",
+      "colors": [
+        "Black",
+        "Multi"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "occasions": [
+        "Festival",
+        "Casual",
+        "Ethnic Day"
+      ],
+      "care": "Hand wash cold",
+      "inStock": true,
+      "stockQuantity": 45,
+      "brand": "Kutch Embroidery",
+      "weight": "400g",
+      "dimensions": "Kurti: 40 inches"
+    },
+    {
+      "id": "TD086",
+      "name": "Asymmetric Kurta - Modern Cut",
+      "category": "Indowestern",
+      "origin": "India",
+      "region": "Mumbai",
+      "price": 3200,
+      "currency": "INR",
+      "description": "Contemporary asymmetric kurta with modern cut and embroidery",
+      "fabric": "Rayon",
+      "colors": [
+        "Rust Orange"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "occasions": [
+        "Party",
+        "Casual",
+        "Office"
+      ],
+      "care": "Machine wash cold",
+      "inStock": true,
+      "stockQuantity": 41,
+      "brand": "Urban Chic",
+      "weight": "450g",
+      "dimensions": "High-low hem"
+    },
+    {
+      "id": "TD087",
+      "name": "Venkatagiri Saree",
+      "category": "Indian Saree",
+      "origin": "India",
+      "region": "Andhra Pradesh",
+      "price": 4200,
+      "currency": "INR",
+      "description": "Lightweight Venkatagiri cotton saree with traditional checks and zari border",
+      "fabric": "Cotton",
+      "colors": [
+        "Green",
+        "Gold"
+      ],
+      "sizes": [
+        "Free Size"
+      ],
+      "occasions": [
+        "Office",
+        "Casual",
+        "Festival"
+      ],
+      "care": "Hand wash cold",
+      "inStock": true,
+      "stockQuantity": 36,
+      "brand": "Andhra Weaves",
+      "weight": "450g",
+      "dimensions": "5.5m length with 0.8m blouse piece"
+    },
+    {
+      "id": "TD097",
+      "name": "Ghagra Choli - Navratri Special",
+      "category": "Indian Lehenga",
+      "origin": "India",
+      "region": "Gujarat",
+      "price": 5500,
+      "currency": "INR",
+      "description": "Traditional Gujarati ghagra choli with mirror work, garba special",
+      "fabric": "Cotton",
+      "colors": [
+        "Red",
+        "Yellow"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "occasions": [
+        "Navratri",
+        "Garba",
+        "Dandiya"
+      ],
+      "care": "Machine wash cold",
+      "inStock": true,
+      "stockQuantity": 42,
+      "brand": "Navratri Special",
+      "weight": "1kg",
+      "dimensions": "Ghagra: 40 inches"
+    },
+    {
+      "id": "TD098",
+      "name": "Sherwani with Jacket - Beige",
+      "category": "Indian Ethnic Men",
+      "origin": "India",
+      "region": "Lucknow",
+      "price": 18000,
+      "currency": "INR",
+      "description": "Designer sherwani with detachable jacket, heavy embroidery",
+      "fabric": "Raw Silk",
+      "colors": [
+        "Beige",
+        "Gold"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "occasions": [
+        "Groom",
+        "Wedding",
+        "Reception"
+      ],
+      "care": "Dry clean only",
+      "inStock": true,
+      "stockQuantity": 8,
+      "brand": "Groom's Ensemble",
+      "weight": "1.8kg",
+      "dimensions": "Long length sherwani"
+    }
+]

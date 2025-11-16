@@ -1,0 +1,102 @@
+{
+  "CUST001": {
+    "preferences": "Loves high-end traditional wear. Prefers rich silk fabrics (Banarasi, Kanjivaram) in deep jewel tones like royal blue and magenta. Shops primarily for wedding occasions.",
+    "purchased_products": ["TD005", "TD015", "TD028", "TD099"],
+    "last_purchase_date": "2025-10-20"
+  },
+  "CUST002": {
+    "preferences": "Prefers casual and comfortable daily wear. Tends to buy simple, breathable cotton kurtas and palazzo sets in pastel colors (mint, lavender).",
+    "purchased_products": ["TD001", "TD002", "TD010", "TD030"],
+    "last_purchase_date": "2025-11-15"
+  },
+  "CUST003": {
+    "preferences": "Modern fusion styles and Indo-Western outfits. Interested in sleek silhouettes, contemporary prints, and georgette/rayon fabrics.",
+    "purchased_products": ["TD003", "TD017", "TD045"],
+    "last_purchase_date": "2025-11-01"
+  },
+  "CUST004": {
+    "preferences": "Buys ethnic wear for office and formal events. Focuses on minimal embroidery, professional colors (navy, beige), and tailored Anarkali suits.",
+    "purchased_products": ["TD022", "TD031", "TD050"],
+    "last_purchase_date": "2025-08-28"
+  },
+  "CUST005": {
+    "preferences": "Wedding guest attire. Likes heavy sequin work and detailed Zari embroidery on Lehengas and Sarees. Favors gold and crimson colors.",
+    "purchased_products": ["TD025", "TD055", "TD070"],
+    "last_purchase_date": "2025-10-05"
+  },
+  "CUST006": {
+    "preferences": "Men's festive wear. Prefers designer Sherwanis and Kurta sets in velvet or raw silk with intricate button and collar work. Likes black and deep maroon.",
+    "purchased_products": ["TD080", "TD081", "TD082"],
+    "last_purchase_date": "2025-11-10"
+  },
+  "CUST007": {
+    "preferences": "Interested in organic, handloom fabrics like Khadi and Linen. Looks for earthy tones and traditional block prints.",
+    "purchased_products": ["TD006", "TD007", "TD018"],
+    "last_purchase_date": "2025-07-01"
+  },
+  "CUST008": {
+    "preferences": "Party wear dresses and gowns. Prefers flowing fabrics like chiffon and organza. Interested in modern draped sarees and pre-stitched outfits.",
+    "purchased_products": ["TD033", "TD060", "TD061", "TD062"],
+    "last_purchase_date": "2025-11-20"
+  },
+  "CUST009": {
+    "preferences": "Value-conscious shopper. Focuses on multi-pack casual Kurtis and durable synthetic blends. Tends to buy items on sale.",
+    "purchased_products": ["TD004", "TD011", "TD012", "TD029"],
+    "last_purchase_date": "2025-11-25"
+  },
+  "CUST010": {
+    "preferences": "Bridal wear shopping (Lehengas and accessories). High budget. Seeks unique designs and custom-fitted outfits.",
+    "purchased_products": ["TD090", "TD095", "TD097"],
+    "last_purchase_date": "2025-09-01"
+  },
+  "CUST011": {
+    "preferences": "Buys traditional clothing for children/kids. Looks for bright colors and comfortable, easy-to-wear fabrics (e.g., silk blends for Kurta Pajamas or Lehengas).",
+    "purchased_products": ["TD040", "TD041", "TD042"],
+    "last_purchase_date": "2025-10-15"
+  },
+  "CUST012": {
+    "preferences": "Men's semi-formal wear. Prefers Nehru jackets and fitted Jodhpuri suits in subtle textures and grey/brown palettes.",
+    "purchased_products": ["TD085", "TD086"],
+    "last_purchase_date": "2025-11-05"
+  },
+  "CUST013": {
+    "preferences": "Loves regional Indian weaves, specifically Pochampally, Paithani, and Bandhani sarees. Prefers vibrant, traditional patterns.",
+    "purchased_products": ["TD016", "TD019"],
+    "last_purchase_date": "2025-09-30"
+  },
+  "CUST014": {
+    "preferences": "Prefers lightweight, travel-friendly ethnic wear. Buys linen sarees and cotton-silk blend suits. Tends to favor turquoise and coral.",
+    "purchased_products": ["TD008", "TD020", "TD021"],
+    "last_purchase_date": "2025-11-18"
+  },
+  "CUST015": {
+    "preferences": "Traditional outfits for religious ceremonies (Pooja, festivals). Seeks sober designs, yellow, white, and red colors, and natural fabrics.",
+    "purchased_products": ["TD009", "TD023"],
+    "last_purchase_date": "2025-11-14"
+  },
+  "CUST016": {
+    "preferences": "Youth-focused modern ethnic wear. Likes crop-top Lehenga sets, Shrug-style suits, and mirror work embroidery.",
+    "purchased_products": ["TD035", "TD052", "TD053"],
+    "last_purchase_date": "2025-10-25"
+  },
+  "CUST017": {
+    "preferences": "Men's casual Kurta Pajamas. Buys comfortable, loose-fitting cotton sets in white or pastel shades for home and casual outings.",
+    "purchased_products": ["TD083", "TD084", "TD087"],
+    "last_purchase_date": "2025-11-22"
+  },
+  "CUST018": {
+    "preferences": "Loves heavy Pakistani-style Salwar Suits and Sharara sets. Prefers net and heavy velvet fabrics with elaborate thread work.",
+    "purchased_products": ["TD065", "TD068"],
+    "last_purchase_date": "2025-10-10"
+  },
+  "CUST019": {
+    "preferences": "Sustainable and ethical fashion focus. Searches for natural dyes, minimal wastage designs, and brands supporting artisans.",
+    "purchased_products": ["TD024", "TD026", "TD027"],
+    "last_purchase_date": "2025-09-22"
+  },
+  "CUST020": {
+    "preferences": "Loves vintage/classic saree styles. Seeks traditional Banarasi silk, heavy Zari work, and dark, muted colors like forest green and aubergine.",
+    "purchased_products": ["TD013", "TD014", "TD075", "TD100"],
+    "last_purchase_date": "2025-11-12"
+  }
+}
